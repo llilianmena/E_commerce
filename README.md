@@ -1,7 +1,12 @@
 # E-commerce Back End Starter Code
 
+![ec1](./assets/images/ec1.png)
+
 # Project Name
 E_commerce
+
+## Link
+https://app.screencastify.com/v2/manage/videos/8P66ses5hSLLMaM7QvKV
 
 ## Description
 This project is a functional Express.js API that interacts with a PostgreSQL database using Sequelize. The API allows users to perform CRUD operations on categories, products, and tags.
